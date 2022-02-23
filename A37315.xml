@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Debate upon the quærie whether a king elected and declared by the Lords spiritual and temporal, and Commons assembled at Westminster 22 of January 1688, coming to and consulting with the said Lords and Commons, doth not make as compleat a Parliament and legislative power and authority to all intents and purposes, as if the said king should cause new summons to be given and new elections to be made by writs</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37315</idno>
+            <idno type="STC">Wing D508</idno>
+            <idno type="STC">ESTC R21332</idno>
+            <idno type="EEBO-CITATION">12259891</idno>
+            <idno type="OCLC">ocm 12259891</idno>
+            <idno type="VID">57837</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37315)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57837)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 179:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Debate upon the quærie whether a king elected and declared by the Lords spiritual and temporal, and Commons assembled at Westminster 22 of January 1688, coming to and consulting with the said Lords and Commons, doth not make as compleat a Parliament and legislative power and authority to all intents and purposes, as if the said king should cause new summons to be given and new elections to be made by writs</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament.</term>
+               <term>Great Britain --  Politics and government --  1660-1714</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:57837:1"/>
+            <pb n="1" facs="tcp:57837:1"/>
+            <head>
+               <hi>A DEBATE UPON THE QUAERIE, WHETHER</hi> A King Elected and Declared by the Lords Spiritual and Temporal, and Commons Aſſembled at <hi>Weſtminſter 22</hi> of <hi>January 1688.</hi> coming to and Conſulting with the ſaid Lords and Commons; doth not make as com<g ref="char:EOLhyphen"/>pleat a Parliament, and Legiſlative power, and authority; to all in<g ref="char:EOLhyphen"/>tents and purpoſes, as if the ſaid King ſhould cauſe new Summons to be given and new Elections to be made by Writs.</head>
+            <p>THAT the Higheſt and Supream Court of this Nation (according to it's ancient conſtitution) is the Parliament, I need not now labour to make out; the preſent buſineſs being to find out and diſcover the ſubſtantial and real parts of a Parliament, for thereby ſhall we be ſatisfied touching the queſtion in hand.</p>
+            <p>A Parliament (as Sir <hi>Edward Coke</hi> in his Juriſdiction of Courts <hi>fol.</hi> 1. tells us) conſiſts of the Kings Majeſtie (ſitting there as in his Politick Capacity) and of the three Eſtates of the Realm (that is to ſay) 1ſt. The Lords Spiritual, as Archbiſhops and Biſhops: 2dly, The Lords Temporal, as Dukes, Marqueſſes, Earls, Viſcounts and Barons: 3dly, The Commons of the Realm, (that is) Knights of Sheers, Citizens and Burgeſſes.</p>
+            <p>As to the Lords both Spiritual and Temporal, Sir <hi>Edward Coke</hi> in the ſame place tells us, that every one of them being of full age when a Parliament is to be held, ought of right to have a Writ of Summons to come to that Parlia<g ref="char:EOLhyphen"/>ment. As to the Commons, he ſays, they are reſpectively elected by the Shires or Counties, Cities and Burroughs by force of the Kings Writs. <hi>Crompton</hi> in his Juriſdiction of Courts <hi>fol.</hi> 1. ſays, the High Court of Parliament is the Higheſt Court in <hi>England,</hi> wherein the King himſelf ſits in perſon; and comes thither at the beginning of the Parliament, and at the end thereof, and at any other time when it pleaſeth him during the Parliament.</p>
+            <p>To this Court come all the Lords of Parliament, as well Spiritual as Tempo<g ref="char:EOLhyphen"/>ral, and are ſeverally ſummoned thither by the Kings Writ.</p>
+            <p>There is a Writ alſo ſent to every Sheriff of <hi>England</hi> and <hi>Wales</hi> to elect Knights for Parliament, <hi>&amp;c.</hi> Saith that Author.</p>
+            <p>But the Lords and Commons aſſembled at <hi>Weſtminſter</hi> 22 of <hi>January</hi> 88. were not ſummoned thither by the Kings Writ, and therefore, as is objected, though the King afterwards comes to them, yet ſuch King, Lords and Commons can<g ref="char:EOLhyphen"/>not be a Parliament.</p>
+            <p>In anſwer to which, and to demonſtrate whether upon the Kings coming to, and conſulting with them, the King and them make a Parliament, I muſt premiſe,
+<pb n="2" facs="tcp:57837:2"/>that in extraordinary caſes, ſuch as of which there is no direct Example, we muſt take our directions from the Reſolutions and Practices in ſuch Caſes as come neareſt and are moſt like to them; and by Conſequences from thence make our Reſolutions as may be moſt agreeable to Reaſon.</p>
+            <p>It is generally admitted, that in an Hereditary Kingdom, if the King ſhould die without any Heir either Lineal or Collateral, the Crown in that caſe would devolve, or as it were eſcheate to the whole People and Nation; and that hereupon the Eſtates and Repreſentatives of ſuch a Nation may diſpoſe of the Crown to whom they pleaſe, or quite alter and change the Government into what form they think fit.</p>
+            <p>This hath been frequently adjudged and practiced, one Inſtance whereof was in the Emperor <hi>Charles the Groſs,</hi> who dying without any Heir, the King<g ref="char:EOLhyphen"/>doms which were under him, did ſeverally chuſe themſelves Kings: <hi>France</hi> choſe <hi>Charles the Simple;</hi> In <hi>Italy</hi> ſome choſe <hi>Berengarius,</hi> and ſome <hi>Guido;</hi> and the <hi>Germans</hi> choſe <hi>Arnolph</hi> Duke of <hi>Bavaria</hi> for their Emperor. <hi>Ferdinand</hi> King of <hi>Portugal</hi> dying without lawful Heir, the Eſtates of that Kingdom aſ<g ref="char:EOLhyphen"/>ſembled themſelves at <hi>Coimbre,</hi> and elected <hi>John</hi> the late Kings Baſtard for their King, and in their Decree of Election it is recited, that King <hi>Ferdinand</hi> died without any lawful Iſſue or Kindred, whereby according to the Law of Nations, it was lawful for them to chuſe who they pleaſed for their King or Governor.</p>
+            <p>In like manner, it is where a King doth abandon, forſake or deſert his Go<g ref="char:EOLhyphen"/>vernment, by going out or flying out of his Kingdom without appointing any Guardian to protect and take care of his People in his abſence, whereby the Throne is become vacant; in ſuch a caſe, the Eſtates of ſuch a People may appoint another King or Governor.</p>
+            <p>And to come cloſe to our preſent Caſe; King <hi>James</hi> the Second whether out of fear, or for what other reaſon it is not material, but away he goes or rather flies out of his Kingdom; abandons, forſakes and leaves his people un<g ref="char:EOLhyphen"/>guarded and undefended, at the Mercy of a Forreign Army, even in the Heart of the Country; without ſo much as leaving a Guardian or Great Seal behind him: His great Officers and Miniſters of State flying ſome one way and ſome another. What could then be done but was then done? <hi>viz.</hi> Several of the Lords Spiritual and Temporal, many of the Knights, Citizens and Burgeſſes of a former Parliament; the Aldermen and divers Common Council of our Ca<g ref="char:EOLhyphen"/>pital City of <hi>London,</hi> addreſſed themſelves to his Highneſs the Prince of <hi>Orange,</hi> deſired him to take upon him the Adminiſtration of Publick Affairs both Civil and Military, for the Preſervation of our Religion, Rights, Laws, Li<g ref="char:EOLhyphen"/>berties and Properties, and of the Peace of the Nation, until the then intended Convention of the three Eſtates or great Council of the Realm: they alſo de<g ref="char:EOLhyphen"/>ſired his Highneſs to ſend Letters ſubſcribed by himſelf to the Lords Spiritual and Temporal that were Proteſtants to meet on the ſaid 22 of <hi>January</hi> at <hi>Weſt<g ref="char:EOLhyphen"/>minſter,</hi> the Summons to Parliament being alwaies omitted to known Popiſh Lords ſince the Teſt-Act. And they deſired his Highneſs to ſend the like Let<g ref="char:EOLhyphen"/>ters to the ſeveral Shires, Counties, Univerſities, Cities, Burroughs and Cinque Ports of the Nation, for Electing of ſuch number of perſons to repreſent them, and to meet on the ſaid 22 of <hi>January,</hi> for the purpoſes aforeſaid, as of right were to be ſent to Parliaments, with directions that ſuch Elections ſhould be made by ſuch perſons only as according to the ancient Cuſtom and Laws, of right ought to chuſe Members for Parliament: And accordingly ſuch Letters were ſent, and due notice given, and Elections accordingly were made, and the ſaid Lords Spiri<g ref="char:EOLhyphen"/>tual and Temporal, and the Knights, Citizens and Burgeſſes ſo elected met on the ſaid 22 of <hi>January:</hi> And after mature and deliberate Conſideration, they Reſolved, <hi>That the Prince and Princeſs of</hi> Orange <hi>ſhould be King and Queen of</hi> Eng<g ref="char:EOLhyphen"/>land, <hi>&amp;c. for their natural lives and life of the longer Liver of them, and that the ſole and full <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of the Regal Power be in the Prince only, in the name of both.</hi>
+            </p>
+            <pb n="3" facs="tcp:57837:2"/>
+            <p>Now after the Prince and Princeſs of <hi>Orange</hi> are proclaimed King and Queen of <hi>England</hi> as aforeſaid, and he comes and Conſults with the three Eſtates ſo aſ<g ref="char:EOLhyphen"/>ſembled, I would fain know what is wanting in that Aſſembly to make them a full and compleat Parliament; or what can be had more than is in this Con<g ref="char:EOLhyphen"/>vention of King, Lords and Commons, if the ſaid King ſhould iſſue out Writs for calling a new Parliament? Certainly nothing more can be had material to the Eſſence of a Parliament.</p>
+            <p>If the ſubſtantial parts of a Parliament be, and conſiſt of an Aſſembly or Con<g ref="char:EOLhyphen"/>vention or Meeting together of the King and the three Eſtates, as I have ſhewed that it is out of the beſt Authorities we have, the difference of the Lords and Commons being call'd by Writ or by Letter is nothing material ſince both Writ and Letter are to the ſame effect; and in ſome ancient Records it is mentioned that Parliaments ſhould be ſummoned by Letters, particularly in King <hi>John</hi>'s great Charter in the 17 year of his Reign, he promiſes to ſummon the Biſhops, Abbots, Earls, &amp;c. <hi>per Literas noſtras</hi> by our Letters. <hi>Orig. Jud.</hi> 17.</p>
+            <p>The Prince of <hi>Orange</hi>'s not being King at the time of his ſending forth his Letters matters not, for he was the Perſon to whom the Adminiſtration of the Government was then committed.</p>
+            <p>It is evident, that in many Parliaments it was not ſo material how the King, Lords and Commons came together, as that they were together.</p>
+            <p>I dare appeal to any man, if the manner of Calling together the three Eſtates of the Realm by the Prince of <hi>Orange</hi>'s Letters was not a much fairer proceeding, conſidering the ſtate of Affairs, as to the Calling of them together, then was in ſeveral Caſes wherein they were never doubted, to be a Parliament when joyn<g ref="char:EOLhyphen"/>ed with a King. I ſhall inſtance only a few of many that might be named.</p>
+            <p>
+               <hi>Edward</hi> the Second being impriſoned by his Queen, Son and Nobles, they iſſue forth Writs in the Impriſoned Kings Name to ſummon the Lords, and to chuſe Knights, Citizens and Burgeſſes to meet at <hi>Weſtminſter</hi> 16 of <hi>Jan.</hi> 1325. This one would think was pretty hard, and an abſolute force upon the King by making uſe of his Name againſt his Will, ſo that it could not be ſaid to be his Act; yet the Lords and Commons being met they depoſed <hi>Edward</hi> the Second, and declared his Son <hi>Edward</hi> King, and this new King, and the Lords and Com<g ref="char:EOLhyphen"/>mons, ſo (as I may ſay) irregularly convened together, made ſeveral Acts of Parliament, and have been ever ſince adjudged a good Parliament to all in<g ref="char:EOLhyphen"/>tents and purpoſes without any ſubſequent Act of Confirmation.</p>
+            <p>In like manner <hi>Rich.</hi> 2. being taken Priſoner by <hi>Henry</hi> Duke of <hi>Lancaſter,</hi> the Duke iſſues forth Writs in the Kings Name (the King then in Priſon) to ſum<g ref="char:EOLhyphen"/>mon the Lords and to elect Repreſentatives for the People, to meet at <hi>Weſt<g ref="char:EOLhyphen"/>minſter</hi> 13 of <hi>Sept.</hi> 1399. Theſe being met by this irregular Summons they de<g ref="char:EOLhyphen"/>poſe <hi>Richard</hi> the Second, and declare the Duke of <hi>Lancaſter</hi> King; and that new King and the Lords and Commons ſo irregularly convened, being joyned together, were and are to this day adjudged, deemed and taken to be a good Parliament to all intents and purpoſes without any Act of Confirmation by any ſubſequent Parliament.</p>
+            <p>The Lords and Commons aſſembled at <hi>Weſtminſter</hi> 25 of <hi>April</hi> 1660. were conven'd by Writs in the Name of the Keepers of the Liberty of <hi>England,</hi> who were Uſurpers; yet when King <hi>Charles</hi> the Second came to them, and they received him as King, he and they together were adjudged a Parliament and they Enacted that they ſhould be ſo taken, and they made many Laws, which im<g ref="char:EOLhyphen"/>mediately were put in execution; and they continued as a Parliament, until 29 of <hi>December</hi> following, which was for above eight Months; but indeed moſt or all thoſe Acts were afterwards confirmed by a ſubſequent Parliament con<g ref="char:EOLhyphen"/>ven'd by the Kings Writs in <hi>May</hi> 1661. but that Confirmation, according to many good Judgments, was rather to ſatisfie ſome Scrupuloſity than out of ne<g ref="char:EOLhyphen"/>ceſſity,
+<pb n="4" facs="tcp:57837:3" rendition="simple:additions"/>moſt of the ſaid Acts having in a great meaſure had their Effects before the ſubſequent confirming Parliament began.</p>
+            <p>If upon the Prince of <hi>Orange</hi>'s being declared and Proclaimed King he comes to the Convention of Lords and Commons Aſſembled at <hi>Weſtminſter:</hi> If the ſame number of Lords be ſummoned thither that of Right ought to be ſum<g ref="char:EOLhyphen"/>moned to Parliment, if the ſame number of Knights, Citizens and Burgeſſes be duly choſen, as ought to be choſen, to repreſent in Parliament, then conſequently there are all the Subſtantial and Eſſential parts of a Parliament met together, and being ſo, where's the Neceſſity, where's the Advantage, where's the Pru<g ref="char:EOLhyphen"/>dence to diſſolve theſe and thereby give new trouble of new Summons, of new Elections, loſe a great deal of time, ſuffer irrecoverable loſs and damage to <hi>Ireland</hi> and our Allies abroad; and after all, at the next meeting, be but where we now are, as to the Eſſential parts of a Parliament, there being nothing more to be had at any other time, but what we have already.</p>
+            <p>I can ſee no material difference as to the making of a Parliament, whether the King come to the Lords and Commons being aſſembled together and joyn with them, or the King by his Writ or Letters call them to him: and there<g ref="char:EOLhyphen"/>fore I conclude, if the Prince of <hi>Orange</hi> after he is Declared and Proclaimed King doth come to the Lords and Commons now Aſſembled at <hi>Weſtminſter,</hi> and adviſe with them, in that inſtant that the King ſo comes and adviſes with them, they will be as good a Parliament, as if he ſhould iſſue out new Writs of Sum<g ref="char:EOLhyphen"/>mons, and they ſhould meet again by force thereof.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:57837:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
